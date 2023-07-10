@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+    background-color: rgb(201, 229, 243);
+}
+
+.header_div{
+    background-color: aliceblue;
+    color: red;
+}
+
+.header_div p{
+    color: black;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: bold;
+    border-width: 2px;
+    border-color: rgba(12, 135, 163, 0.779);
+}
